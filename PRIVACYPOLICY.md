@@ -17,5 +17,5 @@ To provide our service, we will use your personal inormation in the follwing way
 - To enable you to access and use the Services.
 - To provide and deliver products and services that you may request.
 
-##Sharing of personal information
+## Sharing of personal information
 We do not store, share or sell the personal information that you provide .
